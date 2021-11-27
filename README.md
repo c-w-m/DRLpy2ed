@@ -1,4 +1,4 @@
-# [Deep Reinforcement Learning With Python](https://www.amazon.com/gp/product/B08HSHV72N/ref=dbs_a_def_rwt_bibl_vppi_i4)
+# [Deep Reinforcement Learning With Python](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-with-Python)
 
 ###  Master classic RL, deep RL, distributional RL, inverse RL, and more using OpenAI Gym and TensorFlow with extensive Math 
 
